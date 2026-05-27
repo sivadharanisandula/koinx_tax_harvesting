@@ -1,7 +1,7 @@
 import {
   holdingsData,
   capitalGainsData,
-} from "../data/mockData";
+} from "../data/mockdata";
 
 export const fetchHoldings = () => {
   return new Promise((resolve) => {
