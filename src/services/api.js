@@ -1,7 +1,7 @@
 import {
   holdingsData,
   capitalGainsData,
-} from "C:\Users\sivad\taxharvesting\src\data\mockData.js";
+} from "../data/mockData";
 
 export const fetchHoldings = () => {
   return new Promise((resolve) => {
